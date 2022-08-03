@@ -1,1 +1,1 @@
-hello! please use sudo to run the ddos tool
+hello! please use sudo/root to run the ddos tool
